@@ -1,1 +1,2 @@
 # passwordGenerator
+Простой генератор паролей
